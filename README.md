@@ -4,6 +4,7 @@ This is the Book Management API for adding, retreiving, updating and deleting th
 The API is available at https://simple-books-api.glitch.me
 
 
+
 Technologies Used:-
 
 -java 9+
@@ -11,6 +12,7 @@ Technologies Used:-
 -TestNG
 
 -RestAssured
+
 
 
 Prequisites:-
@@ -22,6 +24,7 @@ Prequisites:-
 -TestNG
 
 -Maven
+
 
 
 Dependencies:-
@@ -44,11 +47,13 @@ Dependencies:-
 -xml-schema-validator
 
 
+
 How to Run:-
 
 1. Postman: Download the collection in local and import the file in postman. Add valid and invalid global variable in environment.
 
 2. Eclipse: Clone the repo> add dependencies> open testng.xml file> right click> Run As> TestNG Suite > All test will pass
+
 
 
 Methods used AND HTTPS Status codes:-
@@ -78,11 +83,13 @@ DELETE
 2. Deleting a Book with invalid book IDs- Status Code: 404
 
 
+
 Author Contact:-
 
 LinkedIn: https://www.linkedin.com/in/sarthakkaushik1111/
 
 Github: https://github.com/Sarthak1111
+
 
 License:-
 
